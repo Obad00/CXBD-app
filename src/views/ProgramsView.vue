@@ -96,10 +96,10 @@
               <span class="card-key">Taille de cohorte</span>
               <span class="card-val">{{ prog.cohort }}</span>
             </div>
-            <div class="prog-card-row">
+            <!-- <div class="prog-card-row">
               <span class="card-key">Coût</span>
               <span class="card-val">{{ prog.cost }}</span>
-            </div>
+            </div> -->
             <div class="prog-card-row">
               <span class="card-key">Prochaine session</span>
               <span class="card-val">{{ prog.nextSession }}</span>
