@@ -150,7 +150,7 @@ const programDetails = [
     format: 'Présentiel + workshops',
     cohort: '100 participants max',
     cost: 'Gratuit (sélection)',
-    nextSession: 'Janvier 2025',
+    nextSession: 'Janvier 2027',
     forWho: [
       'Porteurs d\'idées avec un problème clairement identifié',
       'Étudiants en fin de cursus souhaitant entreprendre',
@@ -183,7 +183,7 @@ const programDetails = [
     format: 'Hybride (3 j/semaine)',
     cohort: '40 startups max',
     cost: 'Equity-free (contribution symbolique)',
-    nextSession: 'Février 2025',
+    nextSession: 'Février 2027',
     forWho: [
       'Startups post-ideation avec un BMC validé',
       'Équipes de 2 à 4 personnes',
@@ -216,7 +216,7 @@ const programDetails = [
     format: 'Premium — résidentiel partiel',
     cohort: '10 startups max',
     cost: 'Participation aux bénéfices (2%)',
-    nextSession: 'Mars 2025',
+    nextSession: 'Mars 2027',
     forWho: [
       'Startups avec un MVP validé et de la traction',
       'MRR > 500 000 CFA ou équivalent impact',
