@@ -91,7 +91,7 @@ function initOrbital() {
 .method-intro {
   margin-top: 1.5rem;
   color: var(--text-muted);
-  font-size: 0.92rem;
+  font-size: 0.95rem;
   font-weight: 300;
   line-height: 1.75;
 }
@@ -125,7 +125,7 @@ function initOrbital() {
   color: var(--text-sub);
   transition: color 0.2s;
 }
-.step-desc { color: var(--text-muted); font-size: 0.84rem; font-weight: 300; line-height: 1.7; }
+.step-desc { color: var(--text-muted); font-size: 0.95rem; font-weight: 300; line-height: 1.7; }
 
 .method-visual {
   position: sticky;

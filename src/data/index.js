@@ -59,9 +59,9 @@ export const PROGRAMS = [
     icon: '💡',
     title: 'Ideation',
     desc: "De l'idée brute à l'opportunité structurée. Validation du problème, étude d'impact, construction du business model, prototype fonctionnel.",
-    duration: '6 semaines',
+    duration: '12 semaines',
     format: 'Cohorte · Gratuit',
-    tags: ['6 semaines', 'Gratuit', 'Cohorte', 'En présentiel']
+    tags: ['12 semaines', 'Gratuit', 'Cohorte', 'En présentiel']
   },
   {
     id: 'poc-mvp',
@@ -69,9 +69,9 @@ export const PROGRAMS = [
     icon: '🚀',
     title: 'POC → MVP',
     desc: "Développement produit, test utilisateurs, traction initiale, roadmap technique et stratégique pour startups en phase précoce avec un premier marché identifié.",
-    duration: '3 mois',
+    duration: '6 mois',
     format: 'Hybride · Mentorat',
-    tags: ['3 mois', 'Hybride', 'Mentorat intensif', 'Equity-free']
+    tags: ['6 mois', 'Hybride', 'Mentorat intensif', 'Equity-free']
   },
   {
     id: 'acceleration',
